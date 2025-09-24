@@ -27,6 +27,7 @@ Follow these steps to set up and run the project:
 ```bash
 git clone https://github.com/your-username/FrozenLake--Reinforcement-Learning.git
 cd FrozenLake--Reinforcement-Learning
+```bash
 
 ### 2. Create a virtual environment (optional but recommended)
 python -m venv venv
