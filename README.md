@@ -27,12 +27,28 @@ Follow these steps to set up and run the project:
 ```bash
 git clone https://github.com/your-username/FrozenLake--Reinforcement-Learning.git
 cd FrozenLake--Reinforcement-Learning
-```bash
+```
 
 ### 2. Create a virtual environment (optional but recommended)
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
+```
 
 ### 3. Install dependencies
+```bash
 pip install -r requirements.txt
+```
+
+### 4. Run the initialization script to collect experiences
+```bash
+python frozenlake/FrozenLake1_Initialization.py
+```
+
+### 5. Explore and train your agent
+```bash
+jupyter notebook notebooks/FrozenLake_Exploration.ipynb
+```
+
+
 
