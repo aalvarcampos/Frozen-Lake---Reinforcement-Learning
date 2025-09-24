@@ -4,4 +4,20 @@ Reinforcement learning project using the FrozenLake environment from OpenAI Gym 
 
 ## 📁 Project Structure
 
-Frozen-Lake---Reinforcement-Learning/ ├── frozenlake/ # Source code for environment setup and agent control │ ├── FrozenLake1_Initialization.py │ ├── parser.py │ ├── map_editor.py │ └── map_1.txt ├── data/ # Collected experience data │ └── frozen_lake_experiences.csv ├── notebooks/ # Jupyter notebooks for analysis and training │ └── FrozenLake_Exploration.ipynb ├── docs/ # Project presentation and documentation │ └── FrozenLake_Presentation.pdf ├── requirements.txt # Python dependencies └── README.md # Project overview
+## 📁 Project Structure
+
+- **FrozenLake--Reinforcement-Learning/**
+  - **frozenlake/** – Source code for environment setup and agent control  
+    - `FrozenLake1_Initialization.py`  
+    - `parser.py`  
+    - `map_editor.py`  
+    - `map_1.txt`  
+  - **data/** – Collected experience data  
+    - `frozen_lake_experiences.csv`  
+  - **notebooks/** – Jupyter notebooks for analysis and training  
+    - `FrozenLake_Exploration.ipynb`  
+  - **docs/** – Project presentation and documentation  
+    - `FrozenLake_Presentation.pdf`  
+  - `requirements.txt` – Python dependencies  
+  - `README.md` – Project overview
+
