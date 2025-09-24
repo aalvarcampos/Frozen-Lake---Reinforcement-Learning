@@ -50,5 +50,27 @@ python frozenlake/FrozenLake1_Initialization.py
 jupyter notebook notebooks/FrozenLake_Exploration.ipynb
 ```
 
+## 📊 Results
 
+- Experiences are saved in `data/frozen_lake_experiences.csv`
+- You can visualize agent performance and reward evolution in the notebook
+- The agent improves over time using Q-learning
+
+
+## 📚 References
+
+- [OpenAI Gym: FrozenLake-v1](https://www.gymlibrary.dev/environments/toy_text/frozen_lake/)
+- [Q-learning algorithm](https://en.wikipedia.org/wiki/Q-learning)
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
+
+
+## 👩‍💻 Author
+
+**Andrea Álvarez Campos**  
+Exchange student at George Mason University  
+Course: CDS403 – Machine Learn Applications Science  
+GitHub: XXX
 
