@@ -4,8 +4,6 @@ Reinforcement learning project using the FrozenLake environment from OpenAI Gym 
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 - **FrozenLake--Reinforcement-Learning/**
   - **frozenlake/** – Source code for environment setup and agent control  
     - `FrozenLake1_Initialization.py`  
@@ -20,4 +18,20 @@ Reinforcement learning project using the FrozenLake environment from OpenAI Gym 
     - `FrozenLake_Presentation.pdf`  
   - `requirements.txt` – Python dependencies  
   - `README.md` – Project overview
+
+## 🚀 How to Run
+
+Follow these steps to set up and run the project:
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/FrozenLake--Reinforcement-Learning.git
+cd FrozenLake--Reinforcement-Learning
+
+### 2. Create a virtual environment (optional but recommended)
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+### 3. Install dependencies
+pip install -r requirements.txt
 
