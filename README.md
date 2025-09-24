@@ -72,5 +72,5 @@ jupyter notebook notebooks/FrozenLake_Exploration.ipynb
 **Andrea Álvarez Campos**  
 Exchange student at George Mason University  
 Course: CDS403 – Machine Learn Applications Science  
-GitHub: XXX
+GitHub: [@aalvarcampos](https://github.com/aalvarcampos)
 
